@@ -54,10 +54,10 @@
 .primary-content-container {
   overflow: scroll;
   padding: 16px;
+  padding-right: 0;
   
-  &:first-child,
-  &:nth-child(2) {
-    padding-right: 0px;
+  &:last-child {
+    padding-right: 16px;
   }
 }
 
@@ -139,7 +139,7 @@ p.empty-state-description {
   font-size: 14px;
   line-height: 20px;
   color: #8e9494;
-  padding: 0 10%;
+  padding: 0 3%;
 }
 
 code {
