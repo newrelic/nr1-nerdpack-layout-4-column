@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "nerdpack-layout-4-column-launcher",
+  "description": "A boilerplate for the 4 column nerdpack design layout ",
+  "displayName": "Nerdpack Layout - 4 column",
+  "rootNerdletId": "nerdpack-layout-4-column-nerdlet"
+}
