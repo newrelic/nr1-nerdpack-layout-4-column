@@ -18,13 +18,13 @@ This Nerdpack is a boilerplate for applications built on New Relic One; the best
 
 **More boilerplate layout options** 
 
-[Standard layout](https://github.com/newrelic/nr1-nerdpack-layout-standard)
-[Double sidebar layout](https://github.com/newrelic/nr1-nerdpack-layout-double-sidebar)
-[T-bone layout](https://github.com/newrelic/nr1-nerdpack-layout-t-bone)
-[3 column layout](https://github.com/newrelic/nr1-nerdpack-layout-3-column)
-[2x2 grid layout](https://github.com/newrelic/nr1-nerdpack-layout-2x2-grid)
-[3x2 grid layout](https://github.com/newrelic/nr1-nerdpack-layout-3x2-grid)
-[4x2 grid layout](https://github.com/newrelic/nr1-nerdpack-layout-4x2-grid)
+- [Standard layout](https://github.com/newrelic/nr1-nerdpack-layout-standard)
+- [Double sidebar layout](https://github.com/newrelic/nr1-nerdpack-layout-double-sidebar)
+- [T-bone layout](https://github.com/newrelic/nr1-nerdpack-layout-t-bone)
+- [3 column layout](https://github.com/newrelic/nr1-nerdpack-layout-3-column)
+- [2x2 grid layout](https://github.com/newrelic/nr1-nerdpack-layout-2x2-grid)
+- [3x2 grid layout](https://github.com/newrelic/nr1-nerdpack-layout-3x2-grid)
+- [4x2 grid layout](https://github.com/newrelic/nr1-nerdpack-layout-4x2-grid)
 
 ### Open Source License
 
